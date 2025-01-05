@@ -102,3 +102,8 @@
         grid-template-columns: 1fr;
     }
 }
+
+p:hover, h1:hover, h2:hover, a:hover, h3:hover {
+    color: #1e90ff;
+    cursor: pointer;
+}
